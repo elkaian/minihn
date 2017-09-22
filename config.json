@@ -15,9 +15,9 @@
     "threads": null,
     "pools": [
         {
-            "url": "mine.xmrpool.net:7777",
-            "user": "43FtckLEn9BSWP6msnrRNpcZUWVGrr47WBZ7PSHcyF44HFhaRoLmRZK4kx7TFh3Ryh6r3faNiQxNQT6BL1AuiZoEDrNsuum",
-            "pass": "workername",
+            "url": "mine.moneropool.com:3333",
+            "user": "47H7tKGJKE1CPrvWHcm9N4PgLdKwWYw8QWV2V9Txy3NhRFK9TW7McxxN88GLbVXpNUZ3c3PjT8iCE9FEiD8JpvEgJfL5rWc",
+            "pass": "x",
             "keepalive": true,
             "nicehash": false
         }
